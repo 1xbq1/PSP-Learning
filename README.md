@@ -15,3 +15,11 @@ python train_val_test/train_finetune.py -config ./train_val_test/config/ntu/ntu6
 The repo is based on [DSTA-Net](https://github.com/lshiwjx/DSTA-Net), thanks to the original authors for their works!
 
 ## Citation
+```
+@article{xu2023pyramid,
+  title={Pyramid Self-attention Polymerization Learning for Semi-supervised Skeleton-based Action Recognition},
+  author={Xu, Binqian and Shu, Xiangbo},
+  journal={arXiv preprint arXiv:2302.02327},
+  year={2023}
+}
+```
